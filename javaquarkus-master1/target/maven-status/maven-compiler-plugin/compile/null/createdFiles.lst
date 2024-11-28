@@ -1,0 +1,6 @@
+org/javaquarkus/ExternalApiClient$ApiResponse.class
+org/javaquarkus/DataSyncResource.class
+org/javaquarkus/ExternalDataService.class
+org/javaquarkus/GreetingResource.class
+org/javaquarkus/ExternalApiClient.class
+org/javaquarkus/ExternalData.class
